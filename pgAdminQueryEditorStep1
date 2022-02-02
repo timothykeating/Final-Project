@@ -21,3 +21,12 @@ order by 2 desc
 
 ALTER TABLE variantdata
 RENAME TO stage_variantdata;
+
+CREATE TABLE step2_variantdata (
+Country VARCHAR (255) NOT NULL,
+Date DATE NOT NULL,
+Variant VARCHAR (255) NOT NULL,
+variantInfections INTEGER NOT NULL,
+variantPercentOfDailyTotal DOUBLE PRECISION NOT NULL,
+totalDailyInfections INTEGER NOT NULL
+);
