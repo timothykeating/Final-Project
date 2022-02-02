@@ -1,0 +1,13 @@
+CREATE TABLE variantdata (
+location VARCHAR (255) NOT NULL,
+date DATE NOT NULL,
+variant VARCHAR (255) NOT NULL,
+num_sequences INTEGER NOT NULL,
+perc_sequences DOUBLE PRECISION NOT NULL,
+num_sequences_total INTEGER NOT NULL
+);
+
+SELECT *
+FROM variantdata
+WHERE variant in ('Alpha','Delta','Omicron')
+
