@@ -11,3 +11,10 @@ SELECT *
 FROM variantdata
 WHERE variant in ('Alpha','Delta','Omicron')
 
+select min(date) from variantdata
+
+select location, sum(num_sequences) as "TOTAL CASES"
+from variantdata
+WHERE variant in ('Alpha','Delta','Omicron')
+group by location
+order by 2 desc
