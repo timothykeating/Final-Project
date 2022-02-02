@@ -18,3 +18,6 @@ from variantdata
 WHERE variant in ('Alpha','Delta','Omicron')
 group by location
 order by 2 desc
+
+ALTER TABLE variantdata
+RENAME TO stage_variantdata;
