@@ -7,11 +7,16 @@ perc_sequences DOUBLE PRECISION NOT NULL,
 num_sequences_total INTEGER NOT NULL
 );
 
+select * from countries
+
+select distinct location from stage_variantdata
+
+
 SELECT *
-FROM variantdata
+FROM stage_variantdata
 WHERE variant in ('Alpha','Delta','Omicron')
 
-select min(date) from variantdata
+select max(date) from stage_variantdata
 
 select location, sum(num_sequences) as "TOTAL CASES"
 from variantdata
@@ -30,3 +35,11 @@ variantInfections INTEGER NOT NULL,
 variantPercentOfDailyTotal DOUBLE PRECISION NOT NULL,
 totalDailyInfections INTEGER NOT NULL
 );
+
+CREATE TABLE countries (
+country_name VARCHAR (255) NOT NULL,
+country_code VARCHAR (255) NOT NULL,
+population INTEGER NOT NULL
+);
+
+select * from countries
