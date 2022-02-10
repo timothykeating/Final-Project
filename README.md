@@ -2,15 +2,14 @@
 
 ## The economic impact of COVID across people in different demographic groups and education levels.
 
-
 ## Introduction
 COVID has had a huge impact on the economy and our lives. The impact of COVID has not been uniform across different groups. By conducting this study, we hope to examine how COVID has affected individuals in terms of their employment situation. Findings from this study could help policy makers in creating appropriate support structures for affected individuals. For this study, we have narrowed our focus to North Carolina. 
 
 ## Data Source
-The data for this project has been downloaded from Integrated Public Use Microdata Series (IPUMS)[1] which is the world's largest individual-level population database
-![IPUMS](https://en.wikipedia.org/wiki/IPUMS). 
-The data itself is from the American Community Survey (ACS) which is a demographics survey program conducted by the U.S. Census Bureau
-![ACS](https://en.wikipedia.org/wiki/American_Community_Survey). 
+The data for this project has been downloaded from Integrated Public Use Microdata Series (IPUMS)[1] which is the world's largest individual-level population database.
+[IPUMS](https://en.wikipedia.org/wiki/IPUMS)
+The data itself is from the American Community Survey (ACS) which is a demographics survey program conducted by the U.S. Census Bureau.
+[ACS](https://en.wikipedia.org/wiki/American_Community_Survey)
 
 ## Purpose
 The primary question that this project aims to answer is:
