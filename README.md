@@ -33,3 +33,22 @@ This group will meet during class time on Tuesdays and Thursday; as well as on M
 ## References: 
 
 [1] Sarah Flood, Miriam King, Renae Rodgers, Steven Ruggles, J. Robert Warren and Michael Westberry. Integrated Public Use Microdata Series, Current Population Survey: Version 9.0 [dataset]. Minneapolis, MN: IPUMS, 2021. https://doi.org/10.18128/D030.V9.0
+
+
+
+## Who Did What - Segment #1
+Timothy: 
+- Worked on setting up the GitHub
+- pgAdmin DB
+- I assisted in the Machine Learning Model setup.  
+
+Chris:  
+- Machine Learning 
+
+Vedika:
+- README file
+- Data Cleaning in Python
+
+Abazer:
+- Data Cleaning in Python
+- Machine Leanring

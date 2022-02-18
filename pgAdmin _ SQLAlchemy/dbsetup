@@ -1,0 +1,137 @@
+CREATE TABLE stage_demodata (
+YEAR INTEGER NOT NULL,
+MONTH INTEGER NOT NULL,
+STATEFIP INTEGER NOT NULL
+, METAREA INTEGER NOT NULL
+, COUNTY INTEGER NOT NULL
+, AGE INTEGER NOT NULL
+, SEX INTEGER NOT NULL
+, RACE INTEGER NOT NULL
+, MARST INTEGER NOT NULL
+, HISPAN INTEGER NOT NULL
+, EDUC INTEGER NOT NULL
+, COVIDTELEW INTEGER NOT NULL
+, COVIDUNAW INTEGER NOT NULL);
+SELECT * FROM stage_demodata
+;
+
+CREATE TABLE stage_demodataNC (
+YEAR INTEGER NOT NULL
+, MONTH INTEGER NOT NULL
+, METAREA INTEGER NOT NULL
+, COUNTY INTEGER NOT NULL
+, AGE INTEGER NOT NULL
+, SEX INTEGER NOT NULL
+, RACE_DIGIT INTEGER NOT NULL
+, MARST INTEGER NOT NULL
+, HISPAN INTEGER NOT NULL
+, EDUC INTEGER NOT NULL
+, COVIDTELEW INTEGER NOT NULL
+, COVIDUNAW INTEGER NOT NULL
+, GENDER VARCHAR(100) NOT NULL
+, EDUCATION VARCHAR(100) NOT NULL
+, RACE VARCHAR(100) NOT NULL
+, HISPANIC VARCHAR(100) NOT NULL
+, MARITAL_STATUS VARCHAR(100) NOT NULL
+, MONTH_LE VARCHAR(100) NOT NULL
+);
+SELECT * FROM stage_demodata
+;
+CREATE TABLE gender (
+	gender_id integer NOT NULL,
+	gender_name varchar(10) NOT NULL
+);
+insert into gender 
+
+VALUES ('2','female');
+select * from gender ;
+
+SELECT * FROM gender;
+
+select s.*, q.gender_name
+from stage_demodata s LEFT JOIN gender q ON s.sex=q.gender_id
+
+CREATE TABLE hop1_machlrn_wcm (
+METAREA	INTEGER NOT NULL,
+COUNTY	INTEGER NOT NULL,
+AGE INTEGER NOT NULL,
+COVIDUNAW INTEGER NOT NULL,
+month_le INTEGER NOT NULL,
+gender_Female INTEGER NOT NULL,
+gender_Male INTEGER NOT NULL,
+education_Bachelor INTEGER NOT NULL,
+education_Graduate_Professional_Degree INTEGER NOT NULL,
+education_High_School_or_below INTEGER NOT NULL,
+education_Some_College INTEGER NOT NULL,
+race_Asian INTEGER NOT NULL,
+race_Black INTEGER NOT NULL,
+race_Native_American INTEGER NOT NULL,
+race_White INTEGER NOT NULL,
+hispanic_Hispanic INTEGER NOT NULL,
+hispanic_Non_Hispanic INTEGER NOT NULL,
+marital_status_Divorced INTEGER NOT NULL,
+marital_status_Married INTEGER NOT NULL,
+marital_status_Single INTEGER NOT NULL
+);
+
+SELECT * FROM hop1_machlrn_wcm
+;
+
+CREATE TABLE hop1_machlrn_wm (
+MONTH INTEGER NOT NULL,
+METAREA	INTEGER NOT NULL,
+COUNTY	INTEGER NOT NULL,
+AGE INTEGER NOT NULL,
+COVIDUNAW INTEGER NOT NULL,
+gender_Female INTEGER NOT NULL,
+gender_Male INTEGER NOT NULL,
+education_Bachelor INTEGER NOT NULL,
+education_Graduate_Professional_Degree INTEGER NOT NULL,
+education_High_School_or_below INTEGER NOT NULL,
+education_Some_College INTEGER NOT NULL,
+race_Asian INTEGER NOT NULL,
+race_Black INTEGER NOT NULL,
+race_Native_American INTEGER NOT NULL,
+race_White INTEGER NOT NULL,
+hispanic_Hispanic INTEGER NOT NULL,
+hispanic_Non_Hispanic INTEGER NOT NULL,
+marital_status_Divorced INTEGER NOT NULL,
+marital_status_Married INTEGER NOT NULL,
+marital_status_Single INTEGER NOT NULL
+);
+
+SELECT * FROM hop1_machlrn_wm
+;
+
+CREATE TABLE hop1_machlrn_no_month (
+METAREA	INTEGER NOT NULL,
+COUNTY	INTEGER NOT NULL,
+AGE INTEGER NOT NULL,
+COVIDUNAW INTEGER NOT NULL,
+gender_Female INTEGER NOT NULL,
+gender_Male INTEGER NOT NULL,
+education_Bachelor INTEGER NOT NULL,
+education_Graduate_Professional_Degree INTEGER NOT NULL,
+education_High_School_or_below INTEGER NOT NULL,
+education_Some_College INTEGER NOT NULL,
+race_Asian INTEGER NOT NULL,
+race_Black INTEGER NOT NULL,
+race_Native_American INTEGER NOT NULL,
+race_White INTEGER NOT NULL,
+hispanic_Hispanic INTEGER NOT NULL,
+hispanic_Non_Hispanic INTEGER NOT NULL,
+marital_status_Divorced INTEGER NOT NULL,
+marital_status_Married INTEGER NOT NULL,
+marital_status_Single INTEGER NOT NULL
+);
+
+
+select * from hop1_machlrn_no_month;
+
+CREATE TABLE mlmatix (
+index	VARCHAR NOT NULL,
+Predicted0	float NOT NULL,
+Predicted1 float NOT NULL
+);	
+
+select * from mlmatix; 
