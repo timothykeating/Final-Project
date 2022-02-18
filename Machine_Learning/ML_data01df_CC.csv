@@ -1,4 +1,4 @@
- ,METAREA,COUNTY,AGE,COVIDUNAW,month_le,gender_Female,gender_Male,education_Bachelor's,education_Graduate or Professional Degree,education_High School or below,education_Some College or Associate Degree,race_Asian,race_Black,race_Native American,race_White,hispanic_Hispanic,hispanic_Non-Hispanic,marital_status_Divorced,marital_status_Married,marital_status_Single
+,METAREA,COUNTY,AGE,COVIDUNAW,month_le,gender_Female,gender_Male,education_Bachelor's,education_Graduate or Professional Degree,education_High School or below,education_Some College or Associate Degree,race_Asian,race_Black,race_Native American,race_White,hispanic_Hispanic,hispanic_Non-Hispanic,marital_status_Divorced,marital_status_Married,marital_status_Single
 0,3122,0,54,1,5,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1
 1,3121,37067,51,1,5,1,0,0,0,0,1,0,0,0,1,0,1,1,0,0
 2,3121,37067,49,1,5,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1
