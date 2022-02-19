@@ -1,0 +1,476 @@
+City,State,METAREA
+Abilene,TX,60
+Akron,OH,80
+Albany,GA,120
+Albany-Schenectady-Troy,NY,160
+Albuquerque,NM,200
+Allentown-Bethlehem-Easton,PA/NJ,240
+Altoona,PA,280
+Amarillo,TX,320
+Anchorage,AK,380
+Anderson,IN,400
+Ann Arbor,MI,440
+Anniston,AL,450
+Anniston-Oxford,AL,451
+Appleton,"Oshkosh-Neenah,",460
+Appleton,WI,461
+Oshkosh-Neenah,WI,462
+Asheville,NC,480
+Athens,GA,500
+Athens-Clark County,GA,501
+Atlanta,GA,520
+Atlanta-Sandy Springs-Marietta,GA,521
+Atlantic City,NJ,560
+Auburn-Opelika,AL,580
+Augusta-Aiken,GA-SC,600
+Augusta-Richmond County,GA-SC,601
+Austin,TX,640
+Austin-Round Rock,TX,641
+Bakersfield,CA,680
+Baltimore,MD,720
+Baltimore-Towson,MD,721
+Baltimore-Towson-Columbia,MD,722
+Bangor,ME,730
+Barnstable-Yarmouth,MA,740
+Barnstable Town,MA,741
+Baton Rouge,LA,760
+Battle Creek,MI,780
+Beaumont-Port Arthur-Orange,TX,840
+Beaumont-Port Arthur,TX,841
+Bellingham,WA,860
+Benton Harbor,MI,870
+Niles-Benton Harbor,MI,871
+Billings,MT,880
+Bend,OR,900
+Biloxi-Gulfport,MS,920
+Binghamton,NY,960
+Birmingham,AL,1000
+Birmingham-Hoover,AL,1001
+Blacksburg-Christiansburg-Radford,VA,1010
+Bloomington,IN,1020
+Bloomington-Normal,IL,1040
+Bloomington,IL,1041
+Boise City,ID,1080
+Boise City-Nampa,ID,1081
+Boston,MA,1120
+Lowell,MA/NH,1122
+Salem-Gloucester,MA,1123
+Boston-Cambridge-Quincy,MA-NH,1124
+Boston-Cambridge-Newton,MA-NH,1125
+Bowling Green,KY,1130
+Bradenton,FL,1140
+Bremerton-Silverdale,WA,1150
+Bridgeport,CT,1160
+Bridgeport-Stamford-Norwalk,CT,1161
+Brockton,MA,1200
+Brownsville-Harlingen-San Benito,TX,1240
+Brownsville-Harlingen,TX,1241
+Buffalo-Niagara Falls,NY,1280
+Niagara Falls,NY,1281
+Burlington,NC,1300
+Burlington,VT,1310
+Burlington-South Burlington,VT,1311
+California-Lexington Park,MD,1305
+Canton,OH,1320
+Canton-Massillon,OH,1321
+Carbondale-Marion,IL,1340
+Cedar Rapids,IA,1360
+Chambersburg-Waynesboro,PA,1390
+Champaign-Urbana-Rantoul,IL,1400
+Champaign-Urbana,IL,1401
+Charleston-North Charleston,SC,1440
+Charleston,WV,1480
+Charlotte-Gastonia-Rock Hill,NC/SC,1520
+Charlotte-Gastonia-Concord,NC/SC,1521
+Charlottesville,VA,1530
+Chattanooga,TN/GA,1560
+Aurora-Elgin,IL,1601
+Gary-Hamond-East Chicago,IN,1602
+Joliet,IL,1603
+Lake County,IL,1604
+Chicago-Naperville-Joliet,IL-IN-WI,1605
+Chico,CA,1620
+Cincinnati-Hamilton,OH/KY/IN,1640
+Cincinnati-Middleton,OH/KY/IN,1641
+Clarksville-Hopkinsville,TN/KY,1660
+Clarksville,"TN/KY,",1661
+Cleveland,OH,1680
+Cleveland-Lorain-Mentor,OH,1681
+Cleveland,TN,1685
+Coeur d'Alene,ID,1700
+College Station-Bryan,TX,1710
+Colorado Springs,CO,1720
+Columbia,MO,1740
+Columbia,SC,1760
+Columbus,GA/AL,1800
+Columbus,OH,1840
+Corpus Christi,TX,1880
+Dallas-Fort Worth,TX,1920
+Fort Worth-Arlington,TX,1921
+Dallas-Fort Worth-Arlington,TX,1922
+Danbury,CT,1930
+Daphne-Fairhope-Foley,AL,1940
+Davenport-Rock Island-Moline,IA/IL,1960
+Dayton-Springfield,OH,2000
+Springfield,OH,2001
+Dayton,OH,2002
+Daytona Beach,FL,2020
+Deltona-Daytona Beach-Ormond Beach,FL,2021
+Decatur,AL,2030
+Decatur,IL,2040
+Denver-Boulder-Longmont,CO,2080
+Boulder-Longmont,CO,2081
+Boulder,CO,2082
+Denver-Aurora,CO,2083
+Des Moines,IA,2120
+Detroit,MI,2160
+Detroit-Warren-Livonia,MI,2161
+Dover,DE,2190
+Duluth-Superior,MN/WI,2240
+Duluth,MN/WI,2241
+Dutchess County,NY,2281
+East Stroudsburg,PA,2285
+Eau Claire,WI,2290
+El Centro,CA,2300
+El Paso,TX,2310
+Elkhart-Goshen,IN,2330
+Erie,PA,2360
+Eugene-Springfield,OR,2400
+Evansville,IN/KY,2440
+Fargo-Moorhead,ND/MN,2520
+Fargo,ND/MN,2521
+Farmington,NM,2540
+Fayetteville,NC,2560
+Fayetteville-Springdale,AR,2580
+Fayetteville-Springdale-Rogers,AR-MO,2581
+Fitchburg-Leominster,MA,2600
+Leominster-Fitchburg-Gardner,MA,2601
+Flint,MI,2640
+Florence,AL,2650
+Florence-Muscle Shoals,AL,2651
+Florence,SC,2660
+Fort Collins-Loveland,CO,2670
+Fort Lauderdale-Hollywood-Pompano Beach,FL,2680
+Fort Myers-Cape Coral,FL,2700
+Fort Pierce,FL,2710
+Port St. Lucie-Fort Pierce,FL,2711
+Fort Smith,AR/OK,2720
+Fort Walton Beach,FL,2750
+Fort Walton Beach-Crestview-Destin,FL,2751
+Fort Wayne,IN,2760
+Fresno,CA,2840
+Gadsden,AL,2880
+Gainesville,FL,2900
+Gainesville,GA,2905
+Galveston-Texas City,TX,2920
+Glens Falls,NY,2940
+Goldsboro,NC,2980
+Grand Rapids,MI,3000
+Grand Rapids-Wyoming,MI,3001
+Grand Rapids-Muskegon-Holland,MI,3002
+Holland-Grand Haven,MI,3003
+Greeley,CO,3060
+Green Bay,WI,3080
+Greensboro-Winston Salem,NC,3120
+Winston-Salem,NC,3121
+Greensboro-High Point,NC,3122
+Greenville,NC,3150
+Greenville-Spartanburg-Anderson,SC,3160
+Anderson,SC,3161
+Greenville,SC,3162
+Spartanburg,SC,3163
+Hagerstown,MD,3180
+Hagerstown-Martinsburg,MD-WV,3181
+Hamilton-Middleton,OH,3200
+Hanford-Corcoran,CA,3220
+Harrisburg-Lebanon-Carlisle,PA,3240
+Harrisburg-Carlisle,PA,3241
+Harrisonburg,VA,3260
+Hartford-Bristol-Middleton- New Britain,CT,3280
+New Britain,CT,3283
+Hartford-West Hartford-East Hartford,CT,3284
+Hartford,CT,3285
+Hickory-Morganton,NC,3290
+Hickory-Morganton-Lenoir,NC,3291
+Hilton Head Island-Bluffton-Beaufort,SC,3310
+Honolulu,HI,3320
+Houma-Thibodaux,LA,3350
+Houma-Bayou Cane-Thibodaux,LA,3351
+Houston-Brazoria,TX,3360
+Brazoria,TX,3361
+Houston-Baytown-Sugar Land,TX,3362
+Huntington-Ashland,WV/KY/OH,3400
+Huntsville,AL,3440
+Idaho Falls,ID,3460
+Indianapolis,IN,3480
+Iowa City,IA,3500
+Jackson,MI,3520
+Jackson,MS,3560
+Jacksonville,FL,3590
+Jacksonville,NC,3600
+Jamestown-Dunkirk,NY,3610
+Jamestown,NY,3611
+Janesville-Beloit,WI,3620
+Janvesville,WI,3621
+Johnson City-Kingsport-Bristol,TN/VA,3660
+Johnson City,TN,3661
+Kingsport-Bristol,TN-VA,3662
+Johnstown,PA,3680
+Joplin,MO,3710
+Kahului-Wailuku-Lahaina,HI,3715
+Kalamazoo-Portage,MI,3720
+Kalamazoo-Battle Creek,MI,3721
+Kankakee,IL,3740
+Kankakee-Bradley,IL,3741
+Kansas City,MO/KS,3760
+Kennewick-Richland,WA,3790
+Killeen-Temple,TX,3810
+Killeen-Temple-Fort Hood,TX,3811
+Kingston,NY,3830
+Knoxville,TN,3840
+LaCrosse,WI,3870
+Lafayette,LA,3880
+Lafayette-West Lafayette,IN,3890
+Lake Charles,LA,3960
+Lakeland-Winterhaven,FL,3980
+Lancaster,PA,4000
+Lansing-East Lansing,MI,4040
+Laredo,TX,4080
+Las Cruces,NM,4100
+Las Vegas,NV,4120
+Las Vegas-Paradise,NV,4130
+Lawrence,KS,4150
+Lawton,OK,4200
+Lewiston-Auburn,ME,4290
+Lexington-Fayette,KY,4280
+Lima,OH,4320
+Lincoln,NE,4360
+Little Rock-North Little Rock,AR,4400
+Longview-Marshall,TX,4420
+Longview,TX,4421
+Longview,WA,4430
+Lorain-Elyria,OH,4440
+Los Angeles-Long Beach,CA,4480
+Anaheim-Santa Ana- Garden Grove,CA,4481
+Orange County,CA,4482
+Los Angeles-Long Beach-Santa Ana,CA,4483
+Los Angeles-Long Beach-Anaheim,CA,4484
+Louisville,KY/IN,4520
+Lubbock,TX,4600
+Lynchburg,VA,4640
+Macon-Warner Robins,GA,4680
+Macon,GA,4681
+Warner Robins,GA,4682
+Madera,CA,4700
+Madison,WI,4720
+Manchester,NH,4760
+Manchester-Nashua,NH,4761
+Manhattan,KS,4770
+Mansfield,OH,4800
+McAllen-Edinburg-Pharr-Mission,TX,4880
+McAllen-Edinburg-Pharr,TX,4881
+Medford,OR,4890
+Melbourne-Titusville-Cocoa-Palm Beach,FL,4900
+Palm Bay-Melbourne-Titusville,FL,4901
+Memphis,TN/AR/MS,4920
+Merced,CA,4940
+Miami-Hialeah,FL,5000
+Miami-Fort Lauderdale-Miami Beach,FL,5001
+Michigan City-La Porte,IN,5020
+Milwaukee,WI,5080
+Milwaukee-Waukesha-West Allis,WI,5081
+Minneapolis-St. Paul,MN,5120
+Minneapolis-St. Paul-Bloomington,MN/WI,5121
+Mobile,AL,5160
+Modesto,CA,5170
+Monmouth-Ocean,NJ,5190
+Monroe,LA,5200
+Monroe,MI,5220
+Montgomery,Al,5240
+Morgantown,WV,5260
+Mount Vernon-Anacortes,WA,5270
+Muskegon-Norton Shores-Muskegon Heights,MI,5320
+Muskegon-Norton Shores,MI,5321
+Myrtle Beach,SC,5330
+Myrtle Beach-Conway-North Myrtle Beach,SC,5331
+Naples,FL,5340
+Naples-Marco Island,FL,5341
+Nashua,NH,5350
+Nashville,TN,5360
+Nashville-Davidson-Murfreesboro,TN,5361
+New Bedford,MA,5400
+New Haven-Meriden,CT,5480
+New Haven,CT,5481
+New Haven-Milford,CT,5482
+New London-Norwich,CT/RI,5520
+New Orleans,LA,5560
+New Orleans-Metairie-Kenner,LA,5561
+Nassau-Suffolk,NY,5601
+Bergen-Passaic,NJ,5602
+Jersey City,NJ,5603
+Middlesex-Somerset-Hunterdon,NJ,5604
+Newark,NJ,5605
+New York-Northern New Jersey-Long Island,NY-NJ-PA,5606
+New York,NY,5607
+Newark,OH,5640
+Newburgh-Middletown,NY,5660
+Norfolk-Virginia Beach-Newport News,VA,5720
+Virginia Beach-Norfolk-Newport News,VA/NC,5721
+North Port-Sarasota-Bradenton,FL,5740
+Norwalk,CT,5760
+Norwich-New London,CT,5770
+Ocala,FL,5790
+Odessa,TX,5800
+Midland,TX,5801
+Ocean City,NJ,5840
+Oklahoma City,OK,5880
+Olympia,WA,5910
+Omaha,NE/IA,5920
+Omaha-Council Bluffs,NE/IA,5921
+Orange,NY,5950
+Orlando,FL,5960
+Panama City,FL,6010
+Panama City-Lynn Haven,FL,6011
+Pensacola,FL,6080
+Pensacola-Ferry Pass-Brent,FL,6081
+Peoria,IL,6120
+Philadelphia,PA/NJ,6160
+Philadelphia-Camden-Wilmington,PA/NJ/DE,6161
+Phoenix,AZ,6200
+Phoenix-Mesa-Scottsdale,AZ,6201
+Pine Bluff,AR,6250
+Pittsburg,PA,6280
+Portland,ME,6400
+Portland-South Portland,ME,6401
+Portland-Vancouver,OR/WA,6440
+Vancouver,WA,6441
+Portland-Vancouver-Beaverton,OR/WA,6442
+Portsmouth-Dover-Rochester,NH/ME,6450
+Portsmouth-Rochester,NH/ME,6451
+Rochester-Dover,NH/ME,6452
+Poughkeepsie,NY,6460
+Poughkeepsie-Newburgh-Middletown,NY,6461
+Prescott,AZ,6470
+Providence-Fall River-Pawtucket,MA/RI,6480
+Pawtuckett-Woonsocket-Attleboro,RI/MA,6482
+Providence-Fall River-Warwick,MA-RI,6483
+Providence-Warwick,RI-MA,6484
+Provo-Orem,UT,6520
+Pueblo,CO,6560
+Punta Gorda,FL,6580
+Racine,WI,6600
+Raleigh-Durham,NC,6640
+Durham,NC,6641
+Raleigh-Carey,NC,6642
+Reading,PA,6680
+Redding,CA,6690
+Reno,NV,6720
+Reno-Sparks,NV,6721
+Richmond-Petersburg,VA,6760
+Richmond,VA,6761
+Riverside-San Bernadino,CA,6780
+Roanoke,VA,6800
+Rochester,NY,6840
+Rockford,IL,6880
+Sacramento,CA,6920
+Sacramento-Arden Arcade-Roseville,CA,6921
+Saginaw-Bay City-Midland,MI,6960
+Saginaw-Saginaw Township North,MI,6961
+St. Cloud,MN,6980
+St. George,UT,7000
+St. Louis,MO/IL,7040
+Salem,OR,7080
+Salinas-Sea Side-Monterey,CA,7120
+Salinas,CA,7121
+Salisbury,MD,7130
+Salt Lake City-Ogden,UT,7160
+Salt Lake City,UT,7161
+Ogden-Clearfield,UT,7162
+San Antonio,TX,7240
+San Diego,CA,7320
+San Diego-Carlsbad-San Marcos,CA,7321
+San Francisco-Oaklan-Vallejo,CA,7360
+Oakland,CA,7361
+Vallejo-Fairfield-Napa,CA,7362
+Vallejo-Fairfield,CA,7363
+Napa,CA,7364
+San Francisco-Oakland-Fremont,CA,7365
+San Jose,CA,7400
+San Jose-Sunnyvale-Santa Clara,CA,7401
+San Luis Obispo-Atascadero-Paso Robles,CA,7460
+San Luis Obispo-Paso Robles,CA,7461
+Santa Barbara-Santa Maria-Lompoc,CA,7470
+Santa Barbara-Santa Maria-Goleta,CA,7471
+Santa Barbara-Santa Maria,CA,7472
+Santa Cruz,CA,7480
+Santa Cruz-Watsonville,CA,7481
+Santa Fe,NM,7490
+Santa Rosa-Petaluma,CA,7500
+Sarasota,FL,7510
+Sarasota-Bradenton-Venice,FL,7511
+Savannah,GA,7520
+Scranton-Wilkes-Barre,PA,7560
+Seattle-Everett,WA,7600
+Seattle-Tacoma-Bellevue,WA,7601
+Sharon,PA,7610
+Sherman-Denison,TX,7640
+Shreveport,LA,7680
+Shreveport-Bossier City,LA,7681
+Sioux City,IA-NE,7720
+Sioux Falls,SD,7760
+South Bend-Mishawaka,IN,7800
+Spokane,WA,7840
+Springfield,IL,7880
+Springfield,MO,7920
+Springfield-Holyoke-Chicopee,MA,8000
+Springfield,MA/CT,8001
+Stamford,CT,8040
+Stockton,CA,8120
+Syracuse,NY,8160
+Tacoma,WA,8200
+Tallahassee,FL,8240
+Tampa-St. Petersburg-Clearwater,FL,8280
+Terre Haute,IN,8320
+Toledo,OH/MI,8400
+Topeka,KS,8440
+Trenton,NJ,8480
+Trenton-Ewing,NJ,8481
+Tucson,AZ,8520
+Tulsa,OK,8560
+Tuscaloosa,AL,8600
+Tyler,TX,8620
+Urban Honolulu,HI,8640
+Utica-Rome,NY,8680
+Valdosta,GA,8700
+Ventura-Oxnard-Simi Valley,CA,8730
+Oxnard-Thousand Oaks-Ventura,CA,8731
+Vero Beach,FL,8740
+Victoria,TX,8750
+Vineland-Milville-Bridgetown,NJ,8760
+Visalia-Tulare-Porterville,CA,8780
+Visalia-Porterville,CA,8781
+Waco,TX,8800
+Washington,DC/MD/VA,8840
+Waterbury,CT,8880
+Waterloo-Cedar Falls,IA,8920
+Watertown-Fort Drum,NY,8930
+Wausau,WI,8940
+West Palm Beach-Boca Raton-Delray Beach,FL,8960
+Wheeling,WV/OH,9000
+Wichita,KS,9040
+Wichita Falls,TX,9050
+Williamsport,PA,9140
+Wilmington,DE/NJ/MD,9160
+Wilmington,NC,9200
+Winchester,VA-WV,9220
+Worcester,MA,9240
+Yakima,WA,9260
+Yolo,CA,9270
+York,PA,9280
+York-Hanover,PA,9281
+Youngstown-Warren,OH/PA,9320
+Youngstown-Warren-Boardman,OH,9321
+Yuba City,CA,9340
+Yuma,AZ,9360
+Other metropolitan areas,unidentified,9997
+NIU,household,9998
