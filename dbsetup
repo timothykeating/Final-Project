@@ -150,3 +150,10 @@ latitude float NOT NULL,
 longitude float NOT NULL	
 );	
 select * from lat_long_nc;
+select * from metare_state_city;
+
+SELECT *
+FROM hop1_machlrn_no_month 
+LEFT JOIN lat_long_nc 
+on hop1_machlrn_no_month.metarea = lat_long_nc.metare
+;
