@@ -27,11 +27,29 @@ First (filename: Machine_Learning/CCMachineLearning3.ipynb), we attempted to use
 Once we had those results, we created a confusion matrix and accuracy score.
 
 ### ML_Model_1 Results
-The confusion matrix that we created was saved down to a csv file (filename: Machine_Learning/confusionmatrix1.csv)
+The confusion matrix that we created was saved down to a csv file (filename: Machine_Learning/confusionmatrix1.csv) and we created an Accuracy Score, which was 91.7%
+
+![Confusion Matrix #1](resources/cm1.png)
+
+We felt that these results were overfitted to our dataset and decided to review why this happened and possible next steps.  We decided that our dataset had a class imbalance in the target field and so we would have to create an additional Machine Learning Model to attempt to overcome the class imbalance in the target data field.
 
 ### Machine Learning part 2
+We started the second iteration (filename: Machine_Learning/ccml4.ipynb) of our Machine Learning Model by using Gradient Boosting.  To do so, we first split the data into Trainign and Testing sets and employed the Standard Scaler.  We imported the Gradient Boosting Classifier from sklearn library and decided upon a Learning Rate to use.  Learning Rates from 0.01 to 0.09 were all seen to be similar, before decreasing in Accuring Score, so we used the midpoint - 0.05.  Using the Learning Rate of 0.05, we had the model make predictions.
 
 ### ML_Model_2 Results
+ML_Model_2 was superior to our initial attempt.  We recorded an increased accuracy score of 96%, but did not fear that the Model had overfit the dataset this time, because of the more sophisticated ML_Model of Gradient Boosting employed.
+
+![Confusion Matrix #2](resources/cm1.png)
+
+Still, in order to confirm our excellent prediciton results, we decided to employ one more additional ML_Model.
+
+### Machine Learning part 3
+For our third iteratioin of an ML_Model, we employed Oversampling.  To do so, we imported the Imbalanced Learn Library (imblearn) and utilized the method RandomOverSampler.  With this Over-Sampled dataset, we again performed the training, fitting and prediciton-making through the ML_Model.  We used Logistic Regression 
+
+### ML_Model_3 Results
+<NOTE: can someone help me with interpreting the results fomr this chart?  Not sure how to describe the outcome here... Thanks, Timothy>
+
+![Classification Report](resources/cm3.png)
 
 ## Communication Protocols
 Team Members:
