@@ -51,18 +51,6 @@ For our third iteratioin of an ML_Model, we employed Oversampling.  To do so, we
 
 ![Classification Report](Resources/cm3.png)
 
-## Communication Protocols
-Team Members:
-
-Chris Capps
-
-Timothy Keating
-
-Vedika Nigam
-
-Abazar Rahma
-
-This group will meet during class time on Tuesdays and Thursday; as well as on Mondays and Wednesdays at 7pm on Zoom. Group members are in contact via email, mobile phone and Slack. Team members have their GitHubs set up with each team member owning a branch off of 'main'.
 
 ## References: 
 
