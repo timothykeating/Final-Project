@@ -71,13 +71,13 @@ Chris:
 - Machine Learning 
 
 Vedika:
--Data download from IPUMS website
--Framed Introduction, Reason for study and question statement
--Explored and cleaned data set using python
--Exploratory analysis in excel and plotted trend for dependant variable across across different dependant variable categories.
--Created analysis visualizations and map of NC showing total number of people who responded they could not work in different MSAs due to COVID in Tableau 
--published Dashboard in Tableau Public
--Created presentation in Google slides 
+- Data download from IPUMS website
+- Framed Introduction, Reason for study and question statement
+- Explored and cleaned data set using python
+- Exploratory analysis in excel and plotted trend for dependant variable across across different dependant variable categories.
+- Created analysis visualizations and map of NC showing total number of people who responded they could not work in different MSAs due to COVID in Tableau 
+- Published Dashboard in Tableau Public
+- Created presentation in Google slides 
 
 Abazer:
 - Data Cleaning in Python
