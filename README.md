@@ -1,5 +1,8 @@
 # Final-Project
 
+[Tableau link](https://public.tableau.com/views/COVID_Unemployment_FinalProject/Demographics_COVID_Unemploment?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Google Slides link](https://docs.google.com/presentation/d/1k6wv3H_Mgpk6BEwemjXwz6_-_uWN5hgIVZbxTKltWvo/edit?usp=sharing)
+
 ## The economic impact of COVID across people in different demographic groups and education levels.
 
 ## Introduction
@@ -58,7 +61,7 @@ For our third iteratioin of an ML_Model, we employed Oversampling.  To do so, we
 
 
 
-## Who Did What - Segment #1
+## Who Did What 
 Timothy: 
 - Worked on setting up the GitHub
 - pgAdmin DB
@@ -68,8 +71,13 @@ Chris:
 - Machine Learning 
 
 Vedika:
-- README file
-- Data Cleaning in Python
+-Data download from IPUMS website
+-Framed Introduction, Reason for study and question statement
+-Explored and cleaned data set using python
+-Exploratory analysis in excel and plotted trend for dependant variable across across different dependant variable categories.
+-Created analysis visualizations and map of NC showing total number of people who responded they could not work in different MSAs due to COVID in Tableau 
+-published Dashboard in Tableau Public
+-Created presentation in Google slides 
 
 Abazer:
 - Data Cleaning in Python
