@@ -18,7 +18,7 @@ What are the demographic and educational attainment factors that predict who is 
 
 ## Machine Learning Model
 ### Description of Preprocessing
-<Vedika - please feel free to update this section - thanks, Timothy>
+
 Our initial dataset (filename: Data_Cleaning/demogrphic_data_NC.csv) was created from a raw file, which was pared down to show only North Carolina data. The data was read into a Jupyter Notebook and Pandas was used to created a DataFrame whilst dropping some columns.  The rows of this dataset were cleaned to drop records with "99" values, aka, bad data.  This dataset included only number values, which corresponded to text values; data was cleaned to show the corresponding text values instead of the coded numbers, so that the data would make sense to a person reading it.  Data was mapped for: Sex, Education Level, Race, and Marital Status.  
 
 ### Machine Learning part 1
@@ -47,7 +47,7 @@ Still, in order to confirm our excellent prediciton results, we decided to emplo
 For our third iteratioin of an ML_Model, we employed Oversampling.  To do so, we imported the Imbalanced Learn Library (imblearn) and utilized the method RandomOverSampler.  With this Over-Sampled dataset, we again performed the training, fitting and prediciton-making through the ML_Model.  We used Logistic Regression 
 
 ### ML_Model_3 Results
-<NOTE: can someone help me with interpreting the results fomr this chart?  Not sure how to describe the outcome here... Thanks, Timothy>
+
 
 ![Classification Report](Resources/cm3.png)
 
