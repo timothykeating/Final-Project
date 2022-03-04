@@ -42,7 +42,7 @@ We started the second iteration (filename: Machine_Learning/ccml4.ipynb) of our 
 ### ML_Model_2 Results
 ML_Model_2 was superior to our initial attempt.  We recorded an increased accuracy score of 96%, but did not fear that the Model had overfit the dataset this time, because of the more sophisticated ML_Model of Gradient Boosting employed.
 
-![Confusion Matrix #2](Resources/cm1.png)
+![Confusion Matrix #2](Resources/cm2.png)
 
 Still, in order to confirm our excellent prediciton results, we decided to employ one more additional ML_Model.
 
